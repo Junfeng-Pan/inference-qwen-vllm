@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / Notebooks
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Models (Large files)
+/Qwen3-VL-8B-Instruct-AWQ/
+/Qwen/
+/JunfengPan/
+
+# Datasets
+/data/
+
+# Temporary files & Logs
+*.log
+._____temp
+.lock
+model_path.txt
+
+# Virtual Environments
+venv/
+.venv/
+env/

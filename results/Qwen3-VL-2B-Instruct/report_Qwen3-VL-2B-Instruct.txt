@@ -1,0 +1,11 @@
+==============================
+EVALUATION REPORT: ./Qwen/Qwen3-VL-2B-Instruct
+Date: 2025-12-30 09:02:12
+==============================
+Total Samples: 1000
+Accuracy: 75.30%
+Total Time: 579.20 s
+Average Speed: 1.73 samples/s
+Average Latency: 0.5701 s/sample
+Peak Memory (Used): 16039.38 MB
+==============================

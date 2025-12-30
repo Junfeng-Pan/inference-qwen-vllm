@@ -1,0 +1,2404 @@
+[
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CENTRE"
+    ],
+    "prediction": "centre",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "FRIEND"
+    ],
+    "prediction": "friend",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CHAIN"
+    ],
+    "prediction": "chain",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CLOSE"
+    ],
+    "prediction": "close",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "MARKET"
+    ],
+    "prediction": "market",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "EXTRA"
+    ],
+    "prediction": "extra",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "MOBI"
+    ],
+    "prediction": "mobi",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "COTTAGE"
+    ],
+    "prediction": "cottage",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "AHEAD"
+    ],
+    "prediction": "ahead",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TIMES"
+    ],
+    "prediction": "times",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "AIRES"
+    ],
+    "prediction": "aires",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "KARI"
+    ],
+    "prediction": "kari",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "VOTE"
+    ],
+    "prediction": "vote",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "WONDERS"
+    ],
+    "prediction": "wonders.",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "GROUP"
+    ],
+    "prediction": "group",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "under"
+    ],
+    "prediction": "under",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "palace"
+    ],
+    "prediction": "palace",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "high"
+    ],
+    "prediction": "high",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "grocery"
+    ],
+    "prediction": "grocery",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "gallery"
+    ],
+    "prediction": "gallery",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "motorsports"
+    ],
+    "prediction": "motorsports",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "united"
+    ],
+    "prediction": "united",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "western"
+    ],
+    "prediction": "western",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "colorado"
+    ],
+    "prediction": "colorado",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "hollywood"
+    ],
+    "prediction": "hollywood",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "avenue"
+    ],
+    "prediction": "avenue",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "zero"
+    ],
+    "prediction": "zero",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "college"
+    ],
+    "prediction": "college",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "zula"
+    ],
+    "prediction": "zula",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "fitting"
+    ],
+    "prediction": "fitting",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "fahrenheit"
+    ],
+    "prediction": "fahrenheit",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "california"
+    ],
+    "prediction": "california",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "richtungsangabe"
+    ],
+    "prediction": "richtungsangabe",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "times"
+    ],
+    "prediction": "times",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "tawney"
+    ],
+    "prediction": "tawney",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "national"
+    ],
+    "prediction": "national",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "contractors"
+    ],
+    "prediction": "contractors",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "canary"
+    ],
+    "prediction": "canary",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "euro"
+    ],
+    "prediction": "euro",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "students"
+    ],
+    "prediction": "students",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "copies"
+    ],
+    "prediction": "copies",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "vollmar"
+    ],
+    "prediction": "vollmar",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "pigeons"
+    ],
+    "prediction": "pigeons",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "geld"
+    ],
+    "prediction": "geld",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "music"
+    ],
+    "prediction": "music",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "systems"
+    ],
+    "prediction": "systems",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "lead"
+    ],
+    "prediction": "lead",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "under"
+    ],
+    "prediction": "under",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "orange"
+    ],
+    "prediction": "orange",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "borough"
+    ],
+    "prediction": "borough",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "JOINT"
+    ],
+    "prediction": "joint",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "THANK"
+    ],
+    "prediction": "thank",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "COFFEE"
+    ],
+    "prediction": "coffee",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "EXPERIENCE"
+    ],
+    "prediction": "experience",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "SALE"
+    ],
+    "prediction": "sale",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "EXCITING"
+    ],
+    "prediction": "exciting",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "NEXT"
+    ],
+    "prediction": "130",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CLOSING"
+    ],
+    "prediction": "closing down",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "THREADS"
+    ],
+    "prediction": "threads",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "WORLD"
+    ],
+    "prediction": "world",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CARROLL"
+    ],
+    "prediction": "carroll",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "PARLIAMENT"
+    ],
+    "prediction": "parliament",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "FITNESS"
+    ],
+    "prediction": "fitness",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ALLEN"
+    ],
+    "prediction": "allen",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "RENT"
+    ],
+    "prediction": "rent",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "METHODIST"
+    ],
+    "prediction": "methodist",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TRIPLE"
+    ],
+    "prediction": "triple",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "arteta"
+    ],
+    "prediction": "arteta",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "hutchinson"
+    ],
+    "prediction": "hutchinson",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "bierhoff"
+    ],
+    "prediction": "bierhoff",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "table"
+    ],
+    "prediction": "table",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "mobile"
+    ],
+    "prediction": "mobile",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "invest"
+    ],
+    "prediction": "invest",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "wigan"
+    ],
+    "prediction": "wigan",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "dairy"
+    ],
+    "prediction": "dairy",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "show"
+    ],
+    "prediction": "show",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Virgin"
+    ],
+    "prediction": "virgin",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ATTACK"
+    ],
+    "prediction": "attack",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "DAVIDSON"
+    ],
+    "prediction": "davidson",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "VALVE"
+    ],
+    "prediction": "valve",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Crisp"
+    ],
+    "prediction": "cp",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "overnite"
+    ],
+    "prediction": "overnite",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "KiDS"
+    ],
+    "prediction": "kids",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "this"
+    ],
+    "prediction": "this",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ANTONIOS",
+      "ANTONIO'S"
+    ],
+    "prediction": "antonio's",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TELEPHONE"
+    ],
+    "prediction": "telephone",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CORNERS"
+    ],
+    "prediction": "corners",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "COUNTY"
+    ],
+    "prediction": "county",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TOREADOR"
+    ],
+    "prediction": "toreador",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "GAMBOA"
+    ],
+    "prediction": "gamboa",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Coffee"
+    ],
+    "prediction": "coffee",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "LITTLETON"
+    ],
+    "prediction": "littleton",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ATHENS"
+    ],
+    "prediction": "athen's",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CORONAD"
+    ],
+    "prediction": "coronado",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "SUPER"
+    ],
+    "prediction": "super",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Security"
+    ],
+    "prediction": "security",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "HECHT"
+    ],
+    "prediction": "hecht",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "SHOP"
+    ],
+    "prediction": "shop",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "BAKERY"
+    ],
+    "prediction": "bakery",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "BRIDGE"
+    ],
+    "prediction": "bridge",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "marilyn"
+    ],
+    "prediction": "marilyn",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Scottynn"
+    ],
+    "prediction": "scottlynn",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Home"
+    ],
+    "prediction": "home",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "WORLD"
+    ],
+    "prediction": "world",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "BEACH"
+    ],
+    "prediction": "beach",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Rustic"
+    ],
+    "prediction": "rustic",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "teach"
+    ],
+    "prediction": "teach",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Jasmine"
+    ],
+    "prediction": "jasmine",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "LOVE"
+    ],
+    "prediction": "love",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "thankful"
+    ],
+    "prediction": "thankful",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "LINE"
+    ],
+    "prediction": "line",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "NEWSAGENCY",
+      "NEWS AGENCY"
+    ],
+    "prediction": "newsagency",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "WOODZILLA"
+    ],
+    "prediction": "woodzilla",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Playin'"
+    ],
+    "prediction": "playin'",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Poppi"
+    ],
+    "prediction": "poppi",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Times"
+    ],
+    "prediction": "times",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Wedding"
+    ],
+    "prediction": "wedding",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "appetit"
+    ],
+    "prediction": "appetit",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "christmas"
+    ],
+    "prediction": "merry christmas",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "FOOD"
+    ],
+    "prediction": "food",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "soul"
+    ],
+    "prediction": "soul",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "GOOD"
+    ],
+    "prediction": "good",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "begins."
+    ],
+    "prediction": "begins.",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "chaos"
+    ],
+    "prediction": "sweet chaos",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "BOGUS"
+    ],
+    "prediction": "bogus",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "GOOD"
+    ],
+    "prediction": "good",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CONDENSED"
+    ],
+    "prediction": "condensed",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "YOUR"
+    ],
+    "prediction": "your",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "GAFFNER"
+    ],
+    "prediction": "gaffner",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Lioness"
+    ],
+    "prediction": "The image contains the word **\"lioness\"**.\n\nIt is written in a stylized, bold, and rounded 3D font. The letters are dark blue with a bright red outline or shadow, set against a solid pink background. The design gives a strong sense of depth and dimensionality.",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Fucks"
+    ],
+    "prediction": "The image contains the word \"Fucks\" written in a stylized, cursive white font against a pink background. Below the word, there are illustrations of cannabis leaves. The overall design has a decorative, almost artistic or graphic novel-like quality.",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "willie"
+    ],
+    "prediction": "willie",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Christmas"
+    ],
+    "prediction": "christmas",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Together"
+    ],
+    "prediction": "together",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "LIVE"
+    ],
+    "prediction": "lives",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Welcome"
+    ],
+    "prediction": "welcome",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Order"
+    ],
+    "prediction": "order",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Friday"
+    ],
+    "prediction": "friday",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CHARTRES"
+    ],
+    "prediction": "chartres",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CRUNCHY"
+    ],
+    "prediction": "crunchy",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "NAILS"
+    ],
+    "prediction": "nails",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "KERN"
+    ],
+    "prediction": "kern",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "When"
+    ],
+    "prediction": "when",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "BEFORE"
+    ],
+    "prediction": "before",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CLUB"
+    ],
+    "prediction": "club",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Rainbow"
+    ],
+    "prediction": "rainbow",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Springs"
+    ],
+    "prediction": "springs",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "face"
+    ],
+    "prediction": "face",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Fear"
+    ],
+    "prediction": "fear fringe",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "BOOTS"
+    ],
+    "prediction": "boots",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "communities"
+    ],
+    "prediction": "communities",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "their"
+    ],
+    "prediction": "their",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "bread"
+    ],
+    "prediction": "bread",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "playing"
+    ],
+    "prediction": "playing",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "become"
+    ],
+    "prediction": "become",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "grimly"
+    ],
+    "prediction": "grimly",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "both"
+    ],
+    "prediction": "both",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "measure"
+    ],
+    "prediction": "meanwe",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "medium"
+    ],
+    "prediction": "medium",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "brought"
+    ],
+    "prediction": "brought",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Drugs"
+    ],
+    "prediction": "drugs",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "strictures"
+    ],
+    "prediction": "strictures",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Lord"
+    ],
+    "prediction": "word",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "seem"
+    ],
+    "prediction": "seem",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "think"
+    ],
+    "prediction": "think",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "corners"
+    ],
+    "prediction": "corners",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "talk"
+    ],
+    "prediction": "talk",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "vacuum"
+    ],
+    "prediction": "vacuum",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "experimenta"
+    ],
+    "prediction": "experimental",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "construction"
+    ],
+    "prediction": "construction",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "higher"
+    ],
+    "prediction": "h·s·m·",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "absence"
+    ],
+    "prediction": "absence",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "will"
+    ],
+    "prediction": "will",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "shock"
+    ],
+    "prediction": "shock",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "thoroughly"
+    ],
+    "prediction": "thoroughly",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "seemed"
+    ],
+    "prediction": "seemed",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "would"
+    ],
+    "prediction": "would",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "beer"
+    ],
+    "prediction": "beer",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "jump"
+    ],
+    "prediction": "jump",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "quarrel"
+    ],
+    "prediction": "quarrel",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "MACLEOD"
+    ],
+    "prediction": "macleod",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "planed"
+    ],
+    "prediction": "planned",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "news"
+    ],
+    "prediction": "news",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "tread"
+    ],
+    "prediction": "tread",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "through"
+    ],
+    "prediction": "through",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "every"
+    ],
+    "prediction": "every",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "service"
+    ],
+    "prediction": "service",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "while"
+    ],
+    "prediction": "while",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "most"
+    ],
+    "prediction": "most",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "soul"
+    ],
+    "prediction": "foul",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "facts"
+    ],
+    "prediction": "facts",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "sought"
+    ],
+    "prediction": "song cut",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "understand"
+    ],
+    "prediction": "understand",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "knew"
+    ],
+    "prediction": "hmer",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Dover"
+    ],
+    "prediction": "daver",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "homage"
+    ],
+    "prediction": "homage",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "saturated"
+    ],
+    "prediction": "saturated",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "male"
+    ],
+    "prediction": "male",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "said"
+    ],
+    "prediction": "said",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "introduced"
+    ],
+    "prediction": "introduced",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "5743"
+    ],
+    "prediction": "5943",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1056"
+    ],
+    "prediction": "1056",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "2800"
+    ],
+    "prediction": "2800",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "8548"
+    ],
+    "prediction": "812/8",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "2590"
+    ],
+    "prediction": "2580",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "5605"
+    ],
+    "prediction": "5605",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "3818"
+    ],
+    "prediction": "38/8",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1684"
+    ],
+    "prediction": "1684",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1770"
+    ],
+    "prediction": "1770",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "92548"
+    ],
+    "prediction": "92598",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "25100"
+    ],
+    "prediction": "25100",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "7275"
+    ],
+    "prediction": "7275",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "4053"
+    ],
+    "prediction": "4053",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "6262"
+    ],
+    "prediction": "6262",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "38772"
+    ],
+    "prediction": "38772",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "33779"
+    ],
+    "prediction": "33779",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "52868"
+    ],
+    "prediction": "52869",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "13581"
+    ],
+    "prediction": "13584",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "100972"
+    ],
+    "prediction": "100972",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "5063"
+    ],
+    "prediction": "5063",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "10628"
+    ],
+    "prediction": "106.88",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "2072"
+    ],
+    "prediction": "2072",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "9557"
+    ],
+    "prediction": "9557",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "6776"
+    ],
+    "prediction": "6776",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "8440"
+    ],
+    "prediction": "8440",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "4189"
+    ],
+    "prediction": "4189",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "7936"
+    ],
+    "prediction": "7936",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "4922"
+    ],
+    "prediction": "4922-",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "10806"
+    ],
+    "prediction": "10806",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "17100"
+    ],
+    "prediction": "17100",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "8000"
+    ],
+    "prediction": "Based on the image provided, the number appears to be **2000**.\n\nHere's the reasoning:\n\n- The image shows a handwritten or printed number.\n- The first digit is a \"2\", which is clearly visible as a looped character.\n- The next three digits are all \"0\"s, which are also clearly identifiable as circles or ovals.\n- The overall shape and spacing are consistent with the number 2000.\n\nTherefore, the number in the image is **2000**.",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "25154"
+    ],
+    "prediction": "25154",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "15950"
+    ],
+    "prediction": "15950",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "4950"
+    ],
+    "prediction": "4950",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1570"
+    ],
+    "prediction": "1570",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1416"
+    ],
+    "prediction": "9416",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1911"
+    ],
+    "prediction": "1911",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "7500"
+    ],
+    "prediction": "7500",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "7962"
+    ],
+    "prediction": "7962",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "27299"
+    ],
+    "prediction": "27299",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "5579"
+    ],
+    "prediction": "5999",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "3420"
+    ],
+    "prediction": "3420",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "8452"
+    ],
+    "prediction": "8452",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1931"
+    ],
+    "prediction": "1931",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "5017"
+    ],
+    "prediction": "to17",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "209019"
+    ],
+    "prediction": "209019",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "1357"
+    ],
+    "prediction": "1357",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "76961"
+    ],
+    "prediction": "76962",
+    "is_correct": false
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "31000"
+    ],
+    "prediction": "31000-",
+    "is_correct": true
+  },
+  {
+    "question": "what is the number in the image?",
+    "ground_truth": [
+      "280272"
+    ],
+    "prediction": "280272",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "espt"
+    ],
+    "prediction": "espt",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "caiognr"
+    ],
+    "prediction": "caiognr",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "DOINVSDA"
+    ],
+    "prediction": "doinvsda",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "NLIADOG"
+    ],
+    "prediction": "nliadog",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ianCpagm"
+    ],
+    "prediction": "ianCpagm",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "habiJs"
+    ],
+    "prediction": "habijs",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "IISNAD"
+    ],
+    "prediction": "iisnad",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "OALFVR"
+    ],
+    "prediction": "oalfvr",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "tpti"
+    ],
+    "prediction": "tpti",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ANKBNIG"
+    ],
+    "prediction": "ankbnig",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "idUnte"
+    ],
+    "prediction": "idunte",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "Fzzu"
+    ],
+    "prediction": "fzzu",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ntishgcwi"
+    ],
+    "prediction": "ntishgcwi",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "fitnuf"
+    ],
+    "prediction": "fitnuf",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "RDSEEONS"
+    ],
+    "prediction": "rdseeons",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TISPPIP"
+    ],
+    "prediction": "tisppip",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "VESREE"
+    ],
+    "prediction": "vesree",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "yruo"
+    ],
+    "prediction": "yruo",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "maek"
+    ],
+    "prediction": "maek",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "wenarr"
+    ],
+    "prediction": "wenarr",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "rievsec"
+    ],
+    "prediction": "rievsec",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "llac"
+    ],
+    "prediction": "llac",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "akwoksrit"
+    ],
+    "prediction": "akwoksrit",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "hetha"
+    ],
+    "prediction": "hetha",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "urcinsean"
+    ],
+    "prediction": "urcinsean",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ewek"
+    ],
+    "prediction": "ewek",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "anbk"
+    ],
+    "prediction": "anbk",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "tniUs"
+    ],
+    "prediction": "tniUs",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "coloCaac"
+    ],
+    "prediction": "colocaac",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "meLtiid"
+    ],
+    "prediction": "meltiid",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "cstuk"
+    ],
+    "prediction": "cstuk",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "oCwrntsde"
+    ],
+    "prediction": "ocwrntsde",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "PEAEC"
+    ],
+    "prediction": "peaec",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "beabd"
+    ],
+    "prediction": "beabd",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TTREBE"
+    ],
+    "prediction": "ttrebe",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "eewr"
+    ],
+    "prediction": "eewr",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "NABK"
+    ],
+    "prediction": "nabk",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "LEANDLEG"
+    ],
+    "prediction": "leandleg",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TAEST"
+    ],
+    "prediction": "taest",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "eatst"
+    ],
+    "prediction": "eatst",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "eergdanle"
+    ],
+    "prediction": "eergdanle",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ookL"
+    ],
+    "prediction": "ookl",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "iRaeenlc"
+    ],
+    "prediction": "iraeenlc",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "eeorGg"
+    ],
+    "prediction": "eeorgg",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "nofcsereGtr"
+    ],
+    "prediction": "nofcserereGtr",
+    "is_correct": false
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "CVREIENIG"
+    ],
+    "prediction": "cvreienig",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "TMNEPEGS"
+    ],
+    "prediction": "tmnepegs",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "rcaihttnu"
+    ],
+    "prediction": "rcaihttnu",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "NGTGTIE"
+    ],
+    "prediction": "ngtgtie",
+    "is_correct": true
+  },
+  {
+    "question": "what is written in the image?",
+    "ground_truth": [
+      "ielv"
+    ],
+    "prediction": "ielv",
+    "is_correct": true
+  }
+]

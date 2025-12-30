@@ -1,0 +1,11 @@
+==============================
+EVALUATION REPORT: ./Qwen3-VL-8B-Instruct-AWQ
+Date: 2025-12-30 09:45:07
+==============================
+Total Samples: 1000
+Accuracy: 77.40%
+Total Time: 1002.20 s
+Average Speed: 1.00 samples/s
+Average Latency: 0.9932 s/sample
+Peak Memory (Used): 15641.38 MB
+==============================

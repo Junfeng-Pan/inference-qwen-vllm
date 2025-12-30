@@ -1,0 +1,14 @@
+vllm>=0.13.0
+modelscope
+qwen-vl-utils
+transformers>=4.37.0
+accelerate
+torch
+torchvision
+Pillow
+requests
+datasets
+matplotlib
+tqdm
+pynvml
+numpy
